@@ -1,0 +1,40 @@
+/* Navbar.css */
+
+.navbar {
+    background: linear-gradient(to right, #2b5876, #4e4376); /* Gradient background */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  .navbar-brand {
+    color: #ffffff; /* White text color */
+    font-weight: bold;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .navbar-brand:hover {
+    color: #ffc107; /* Yellow color on hover */
+  }
+  
+  .navbar-brand.active {
+    color: #000000; /* Black text color for active link */
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #a2d5ed; /* White color for toggler icon */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #ffffff; /* White text color for links */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ffc107; /* Yellow color on hover */
+  }
+  
+  /* Optional: Add border-bottom to navbar for separation */
+  .navbar {
+    border-bottom: 2px solid #ffc107; /* Yellow border */
+  }
+
+
