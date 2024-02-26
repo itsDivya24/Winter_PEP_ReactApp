@@ -24,7 +24,7 @@ The Navbar component serves as the navigation bar for the application.
 FormAction is a component that includes a form to collect user input. It features input fields for Name, Age, Address, and EmailID.
 
 
-Screen Recording of the React App :
+## Screen Recording of the React App :
 
 https://github.com/itsDivya24/Winter_PEP_ReactApp/assets/118042383/8ef9dab0-93a0-4bcd-9945-eb24cab0d9a3
 
